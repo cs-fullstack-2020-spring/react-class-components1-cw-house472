@@ -5,7 +5,14 @@ class DisplayMovies extends Component{
     render(){
         return(
             <div>
+                {
+                    movies.forEach(
+                        (m) => {
+                            return 
+                        }
+                    )
 
+                }
 
 
             </div>

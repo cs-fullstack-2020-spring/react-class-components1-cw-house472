@@ -12,7 +12,7 @@ class Netflix extends Component{
         ]
         return(
             <div>
-
+                <DisplayMovies ></DisplayMovies>
             </div>
         )
     }
