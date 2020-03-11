@@ -1,4 +1,9 @@
 # Class components
+#### You should have named the react apps something that aligned more with their functionality (like bank-app and greeting-app) or name them what was explicitly stated in the readme
+
+#### The components in your first app should not accept any params as stated in the readme `that doesn't accept any properties`
+
+#### Score : 4/5
 
 # React Introduction Class Components 1 Classwork
 
